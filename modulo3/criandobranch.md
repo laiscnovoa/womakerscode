@@ -8,4 +8,3 @@
  Para criar pelo github, precisa acessar o repositório e ir na seção de listagem das branch e inserir o nome da nova branch
 
  Para excluir uma branch, tem que ir na seção de listagem de branch e clicar na lixeira.
- 
